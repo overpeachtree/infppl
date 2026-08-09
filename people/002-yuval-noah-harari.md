@@ -10,36 +10,36 @@ Yuval Noah Harari is a historian and author known for writing about human histor
 
 ### Recent Interview / Podcast Candidates
 
-#### 1. Yuval Noah Harari reveals the real dangers ahead - The TED Interview
+#### 1. Our AI Future Is WAY WORSE Than You Think | Yuval Noah HarariYuval Noah Harari: Stories, Power &amp; Why Truth Doesn&#x27;t Matter ...Yuval Harari - Top podcast episodes - Listen NotesOpinion | Yuval Noah Harari on Donald Trump’s Core DelusionYuval Noah Harari Interviews &amp; Speeches – Podcast – PodtailBONUS: Yuval Noah Harari and Ari Melber Interview
 
-Listen to this episode from The TED Interview on Spotify. Historian and futurist Yuval Harari has a story about the future that’s profound, exciting, and unsettling. Hosted on Acast.
+Yuval Noah Harari, renowned historian and author of “Nexus,” explores the indelible impact of AI on human society. We discuss his iconoclastic views on information networks, the inextricable ... Feb 11, 2026 · I sat down with Yuval Noah Harari at the World Economic Forum in Davos and we ended up covering everything from why Christianity&#x27;s core story is essentially ... Jul 28, 2026 · Yuval Noah Harari (Hebrew: יובל נח הררי [juˈval ˈnoaχ (h)aˈʁaʁi]; born 24 February 1976) is an Israeli public intellectual, historian and a professor in the Department of History at the Hebrew University of Jerusalem. May 26, 2026 · It is, as we say in the podcast biz, a wide-ranging conversation, and all the better for it. Ezra Klein: Yuval Noah Harari, welcome to the show. Yuval Noah Harari: Thank you. It’s good to be here. Feb 10, 2023 · Interviews and speeches with Prof. Yuval Noah Harari who is a historian, philosopher and the bestselling author of Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century. – Listen to Yuval Noah Harari Interviews &amp; Speeches instantly on your tablet, phone or browser - no downloads needed. Jun 4, 2025 · In this podcast extra, hear MSNBC’s Ari Melber’s extended interview with renowned historian and best-selling author Yuval Noah Harari, as he discusses how Trump’s power politics echo the dangerous “medieval” era; the risks and advancements in AI, including Harari’s proposals to limit fake bots and people; and his personal views on life extension and technological reincarnation. To ... Who is Yuval Noah Harari? ...Yuval Noah Harari is an Israeli public intellectual, historian and professor in the Department of History at the Hebrew University of Jerusalem. He is the author of the popular science bestsellers Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for t… What is Harari about? It’s about Israel — Harari is Israeli. It’s about artificial intelligence, what it’s going to do to us and what it’s going to do to language as the way we work with — and fail to work with — one another. It is, as we say in the podcast biz, a wide-ranging conversation, and all the better for it. Ezra Klein: Yuval Noah Harari, welcome to the show. Does Harari have a new book for kids? He has a new book for kids, “Unstoppable Us, Volume 3,” that is also about cooperation and how enemies turn into friends. But this conversation is bigger than that. It’s about liberalism. It’s about Israel — Harari is Israeli.
 
-[Open source](https://open.spotify.com/episode/7E5sVjgk3315tArsCNGae1)
+[Open source](https://www.youtube.com/watch?v=_jl64f-821o)
 
-#### 2. Yuval Noah Harari Interview: Elon Musk... | The Indian Express
+#### 2. Yuval Noah Harari: Stories, Power &amp; Why Truth Doesn&#x27;t Matter ...Yuval Harari - Top podcast episodes - Listen NotesOpinion | Yuval Noah Harari on Donald Trump’s Core DelusionYuval Noah Harari Interviews &amp; Speeches – Podcast – PodtailBONUS: Yuval Noah Harari and Ari Melber Interview
+
+Feb 11, 2026 · I sat down with Yuval Noah Harari at the World Economic Forum in Davos and we ended up covering everything from why Christianity&#x27;s core story is essentially ... Jul 28, 2026 · Yuval Noah Harari (Hebrew: יובל נח הררי [juˈval ˈnoaχ (h)aˈʁaʁi]; born 24 February 1976) is an Israeli public intellectual, historian and a professor in the Department of History at the Hebrew University of Jerusalem. May 26, 2026 · It is, as we say in the podcast biz, a wide-ranging conversation, and all the better for it. Ezra Klein: Yuval Noah Harari, welcome to the show. Yuval Noah Harari: Thank you. It’s good to be here. Feb 10, 2023 · Interviews and speeches with Prof. Yuval Noah Harari who is a historian, philosopher and the bestselling author of Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century. – Listen to Yuval Noah Harari Interviews &amp; Speeches instantly on your tablet, phone or browser - no downloads needed. Jun 4, 2025 · In this podcast extra, hear MSNBC’s Ari Melber’s extended interview with renowned historian and best-selling author Yuval Noah Harari, as he discusses how Trump’s power politics echo the dangerous “medieval” era; the risks and advancements in AI, including Harari’s proposals to limit fake bots and people; and his personal views on life extension and technological reincarnation. To ... Who is Yuval Noah Harari? ...Yuval Noah Harari is an Israeli public intellectual, historian and professor in the Department of History at the Hebrew University of Jerusalem. He is the author of the popular science bestsellers Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for t… What is Harari about? It’s about Israel — Harari is Israeli. It’s about artificial intelligence, what it’s going to do to us and what it’s going to do to language as the way we work with — and fail to work with — one another. It is, as we say in the podcast biz, a wide-ranging conversation, and all the better for it. Ezra Klein: Yuval Noah Harari, welcome to the show. Does Harari have a new book for kids? He has a new book for kids, “Unstoppable Us, Volume 3,” that is also about cooperation and how enemies turn into friends. But this conversation is bigger than that. It’s about liberalism. It’s about Israel — Harari is Israeli.
+
+[Open source](https://www.youtube.com/watch?v=N0S048D2tj4)
+
+#### 3. Opinion | Yuval Noah Harari on Donald Trump’s Core DelusionYuval Noah Harari Interviews &amp; Speeches – Podcast – PodtailBONUS: Yuval Noah Harari and Ari Melber Interview
+
+May 26, 2026 · It is, as we say in the podcast biz, a wide-ranging conversation, and all the better for it. Ezra Klein: Yuval Noah Harari, welcome to the show. Yuval Noah Harari: Thank you. It’s good to be here. Feb 10, 2023 · Interviews and speeches with Prof. Yuval Noah Harari who is a historian, philosopher and the bestselling author of Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century. – Listen to Yuval Noah Harari Interviews &amp; Speeches instantly on your tablet, phone or browser - no downloads needed. Jun 4, 2025 · In this podcast extra, hear MSNBC’s Ari Melber’s extended interview with renowned historian and best-selling author Yuval Noah Harari, as he discusses how Trump’s power politics echo the dangerous “medieval” era; the risks and advancements in AI, including Harari’s proposals to limit fake bots and people; and his personal views on life extension and technological reincarnation. To ... Who is Yuval Noah Harari? ...Yuval Noah Harari is an Israeli public intellectual, historian and professor in the Department of History at the Hebrew University of Jerusalem. He is the author of the popular science bestsellers Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for t… What is Harari about? It’s about Israel — Harari is Israeli. It’s about artificial intelligence, what it’s going to do to us and what it’s going to do to language as the way we work with — and fail to work with — one another. It is, as we say in the podcast biz, a wide-ranging conversation, and all the better for it. Ezra Klein: Yuval Noah Harari, welcome to the show. Does Harari have a new book for kids? He has a new book for kids, “Unstoppable Us, Volume 3,” that is also about cooperation and how enemies turn into friends. But this conversation is bigger than that. It’s about liberalism. It’s about Israel — Harari is Israeli.
+
+[Open source](https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html)
+
+#### 4. Yuval Noah Harari Interview: Elon Musk... | The Indian Express
 
 Audio. Express Conversations. Yuval Noah Harari Interview: Elon Musk &amp; Silicon Valley Leaders Aren’t Elected but Make Big Decision.
 
 [Open source](https://indianexpress.com/audio/express-conversations/yuval-noah-harari-interview-elon-musk-silicon-valley-leaders-arent-elected-but-make-big-decision/9737913/)
 
-#### 3. BONUS: Yuval Noah Harari and Ari Melber Interview
+#### 5. Yuval Noah Harari Interviews &amp; Speeches – Podcast – Podtail
 
-In this podcast extra, hear MSNBC&#x27;s Ari Melber&#x27;s extended interview with renowned historian and best-selling author Yuval Noah Harari, as he discusses how Trump&#x27;s power politics echo the dangerous &quot;medieval&quot; era; the risks and advancements in AI, including Harari&#x27;s proposals to limit fake bots and people; and his personal views on life extension and technological reincarnation. To ...
-
-[Open source](https://podcasts.apple.com/us/podcast/bonus-yuval-noah-harari-and-ari-melber-interview/id1364113251?i=1000711185081)
-
-#### 4. Yuval Noah Harari Interviews &amp; Speeches - Podcast - Podtail
-
-Interviews and speeches with Prof. Yuval Noah Harari who is a historian, philosopher and the bestselling author of Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century. - Listen to Yuval Noah Harari Interviews &amp; Speeches instantly on your tablet, phone or browser - no downloads needed.
+Feb 10, 2023 · Interviews and speeches with Prof. Yuval Noah Harari who is a historian, philosopher and the bestselling author of Sapiens: A Brief History of Humankind, Homo Deus: A Brief History of Tomorrow, and 21 Lessons for the 21st Century. – Listen to Yuval Noah Harari Interviews &amp; Speeches instantly on your tablet, phone or browser - no downloads needed.
 
 [Open source](https://podtail.com/podcast/yuval-noah-harari-interviews-speeches/)
 
-#### 5. Yuval Noah Harari Interview on &#x27;Pozner&#x27; - YouTube
-
-Yuval Noah Harari interviewed by veteran journalist and author Vladimir Pozner. This interview was broadcasted on Channel One Russia on June 24, 2019.Yuval Noah Harari 119,701 views 6 years ago. Copy link.
-
-[Open source](https://www.youtube.com/watch?v=ov78eDUoF0M)
-
-_Last checked: 2026-08-09 14:27 UTC_
+_Last checked: 2026-08-09 14:38 UTC_
 
 <!-- AUTO-UPDATE-END -->
