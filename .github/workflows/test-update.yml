@@ -1,0 +1,51 @@
+name: Test automatic update
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Update Stephen Wolfram page
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          path = Path("people/001-stephen-wolfram.md")
+          text = path.read_text()
+
+          start = "<!-- AUTO-UPDATE-START -->"
+          end = "<!-- AUTO-UPDATE-END -->"
+
+          timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+          new_section = f"""<!-- AUTO-UPDATE-START -->
+
+          🤖 Automatic update successful!
+
+          Last test run: {timestamp}
+
+          <!-- AUTO-UPDATE-END -->"""
+
+          before = text.split(start)[0]
+          after = text.split(end)[1]
+
+          path.write_text(before + new_section + after)
+          PY
+
+      - name: Commit change
+        run: |
+          git config user.name "infppl-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add people/001-stephen-wolfram.md
+          git commit -m "Test automatic Stephen Wolfram update"
+          git push
