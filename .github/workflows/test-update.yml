@@ -96,7 +96,7 @@ jobs:
           print("FOUND:")
           print(newest)
           PY
-
+          
       - name: Commit result
         run: |
           git config user.name "infppl-bot"
@@ -108,5 +108,6 @@ jobs:
             echo "No changes found."
           else
             git commit -m "Update Stephen Wolfram latest interview"
-            git push
+            git pull --rebase origin main
+            git push origin main
           fi
