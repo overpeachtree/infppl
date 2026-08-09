@@ -8,8 +8,15 @@ Stephen Wolfram is a computer scientist, mathematician, physicist, and entrepren
 
 <!-- AUTO-UPDATE-START -->
 
-🤖 Automatic update successful!
+### 2026-08-02 — Podcast Title
+- Platform: YouTube
+- Topic: AI, computation, and Wolfram Language
+- Summary: ...
+- Source: ...
 
-Last test run: 2026-08-09 06:22 UTC
+### 2026-07-18 — Interview Title
+- Platform: Podcast
+- Topic: ...
+- Summary: ...
 
 <!-- AUTO-UPDATE-END -->
