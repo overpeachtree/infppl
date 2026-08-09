@@ -1,4 +1,4 @@
-name: Test automatic update
+name: Find Stephen Wolfram interview
 
 on:
   workflow_dispatch:
@@ -14,11 +14,73 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Update Stephen Wolfram page
+      - name: Install yt-dlp
+        run: |
+          python -m pip install --upgrade yt-dlp
+
+      - name: Find recent Stephen Wolfram video
         run: |
           python - <<'PY'
+          import subprocess
+          import json
           from pathlib import Path
-          from datetime import datetime, timezone
+
+          query = 'ytsearch20:Stephen Wolfram interview podcast'
+
+          result = subprocess.run(
+              [
+                  "yt-dlp",
+                  "--dump-json",
+                  "--skip-download",
+                  "--ignore-errors",
+                  query
+              ],
+              capture_output=True,
+              text=True
+          )
+
+          videos = []
+
+          for line in result.stdout.splitlines():
+              try:
+                  data = json.loads(line)
+              except json.JSONDecodeError:
+                  continue
+
+              title = data.get("title")
+              url = data.get("webpage_url")
+              upload_date = data.get("upload_date")
+              channel = data.get("channel") or data.get("uploader")
+
+              if title and url and upload_date:
+                  videos.append({
+                      "title": title,
+                      "url": url,
+                      "date": upload_date,
+                      "channel": channel or "Unknown"
+                  })
+
+          if not videos:
+              raise RuntimeError("No usable videos found.")
+
+          # newest upload first
+          videos.sort(key=lambda x: x["date"], reverse=True)
+
+          newest = videos[0]
+
+          date = newest["date"]
+          formatted_date = f"{date[:4]}-{date[4:6]}-{date[6:]}"
+
+          markdown = f"""<!-- AUTO-UPDATE-START -->
+
+          ### {formatted_date} — {newest['title']}
+
+          - Platform: YouTube
+          - Channel: {newest['channel']}
+          - Published: {formatted_date}
+          - [Watch interview]({newest['url']})
+
+          <!-- AUTO-UPDATE-END -->"""
 
           path = Path("people/001-stephen-wolfram.md")
           text = path.read_text()
@@ -26,26 +88,25 @@ jobs:
           start = "<!-- AUTO-UPDATE-START -->"
           end = "<!-- AUTO-UPDATE-END -->"
 
-          timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-
-          new_section = f"""<!-- AUTO-UPDATE-START -->
-
-          🤖 Automatic update successful!
-
-          Last test run: {timestamp}
-
-          <!-- AUTO-UPDATE-END -->"""
-
           before = text.split(start)[0]
           after = text.split(end)[1]
 
-          path.write_text(before + new_section + after)
+          path.write_text(before + markdown + after)
+
+          print("FOUND:")
+          print(newest)
           PY
 
-      - name: Commit change
+      - name: Commit result
         run: |
           git config user.name "infppl-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add people/001-stephen-wolfram.md
-          git commit -m "Test automatic Stephen Wolfram update"
-          git push
+
+          if git diff --cached --quiet; then
+            echo "No changes found."
+          else
+            git commit -m "Update Stephen Wolfram latest interview"
+            git push
+          fi
