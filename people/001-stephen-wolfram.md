@@ -24,17 +24,17 @@ January 9, 2025 - I would hazard to say interviewing such an unconventional supe
 
 [Open source](https://guykawasaki.com/stephen-wolfram-remarkable-people/)
 
-#### 3. Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad... The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss
-
-December 5, 2022 - Interview with Stephen Wolfram on The Tim Ferriss Show podcast
-
-[Open source](https://tim.blog/2022/11/24/stephen-wolfram/)
-
-#### 4. The Tim Ferriss Show Transcripts: Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad… The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss
+#### 3. The Tim Ferriss Show Transcripts: Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad… The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss
 
 November 26, 2022 - Listen to the episode on Apple Podcasts, Spotify, Overcast, Podcast Addict, Pocket Casts, Castbox, Google Podcasts, Stitcher, Amazon Music, or on your favorite podcast platform. You can watch the interview on YouTube here. ... #637: Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad…
 
 [Open source](https://tim.blog/2022/11/25/stephen-wolfram-transcript/)
+
+#### 4. Stephen Wolfram — Personal Productivity Systems, Richard Feynman Stories, Computational Thinking as a Superpower, Perceiving a Branching Universe, and The Ruliad... The Biggest Object in Metascience (#637) - The Blog of Author Tim Ferriss
+
+December 5, 2022 - Interview with Stephen Wolfram on The Tim Ferriss Show podcast
+
+[Open source](https://tim.blog/2022/11/24/stephen-wolfram/)
 
 #### 5. #89 - Stephen Wolfram: Cellular Automata, Computation, and Physics | MIT | Artificial Intelligence Podcast
 
@@ -42,6 +42,6 @@ April 18, 2020 - EPISODE LINKS: Stephen’s Twitter: ... Science (book): https:/
 
 [Open source](https://lexfridman.com/stephen-wolfram/)
 
-_Last checked: 2026-08-09 14:38 UTC_
+_Last checked: 2026-08-21 07:42 UTC_
 
 <!-- AUTO-UPDATE-END -->
